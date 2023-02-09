@@ -1,5 +1,3 @@
-# Заметки по блоку Java
-
 ## Лекция 1
 
 [Скачать JDK для Java](https://bell-sw.com/pages/downloads/ "Liberica JDK")
