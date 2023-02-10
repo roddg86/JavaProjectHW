@@ -39,8 +39,9 @@ public class Main {
 
     }
 
-    /* метод генерирует массив случайных чисел */
+
     public static int[] genRandomArray(int size, int maxValue){
+        /* метод генерирует массив случайных чисел */
         int[] array = new int[size];
 
         Random rand = new Random();
