@@ -1,6 +1,6 @@
 package Lectures.lec1;
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
 /* 
  * 
@@ -8,7 +8,7 @@ import java.util.Scanner;
  * комментарий
  * 
  */
-public class program {
+public class Programs {
     public static void main(String[] args) {
         System.out.println("Hi Java"); // классический комментарий
 
