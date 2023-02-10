@@ -106,7 +106,7 @@ public class Programs {
 
         // методы в java
 
-        lib.sayHi();
+        //Lib.sayHi(); // вызов метода из другого класса
 
         for (int i = 0; i < 10; i++) {
             if (i % 2 == 0) {

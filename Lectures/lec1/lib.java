@@ -1,6 +1,6 @@
 package Lectures.lec1;
 
-public class lib {
+public class Lib {
     static void sayHi() {
         System.out.println("hi");
     }
