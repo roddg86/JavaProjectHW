@@ -50,7 +50,7 @@ public class Task1 {
         // метод выводит отсортированный массив
         for (int i = 0; i < sortArr.length; i++) {
             LOGGER.log(Level.INFO, "Sorted element " + sortArr[i]);
-            //System.out.println(sortArr[i]);
+            System.out.println(sortArr[i]);
         }
     }
 }
