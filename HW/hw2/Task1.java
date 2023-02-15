@@ -1,6 +1,7 @@
 package HW.hw2;
 
 import java.io.FileInputStream;
+import java.util.Arrays;
 import java.util.logging.Level;
 import java.util.logging.LogManager;
 import java.util.logging.Logger;
@@ -38,9 +39,9 @@ public class Task1 {
                     swap = sortArr[j]; // во временную переменную помещаем первый элемент
                     sortArr[j] = sortArr[j + 1]; // на место первого ставим второй элемент
                     sortArr[j + 1] = swap; // вместо второго элемента пишем первый из временной памяти
+                    LOGGER.log(Level.INFO, "Iteration element " + Arrays.toString(sortArr) + "\n");
                 }
             }
-            LOGGER.log(Level.INFO, "Iteration element " + sortArr[i] + "\n");
         }
 
         return sortArr;
