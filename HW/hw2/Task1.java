@@ -39,7 +39,8 @@ public class Task1 {
                     swap = sortArr[j]; // во временную переменную помещаем первый элемент
                     sortArr[j] = sortArr[j + 1]; // на место первого ставим второй элемент
                     sortArr[j + 1] = swap; // вместо второго элемента пишем первый из временной памяти
-                    LOGGER.log(Level.INFO, "Iteration element " + Arrays.toString(sortArr) + "\n");
+                    LOGGER.log(Level.INFO,
+                            "Iteration element " + sortArr[j] + " in " + Arrays.toString(sortArr));
                 }
             }
         }
