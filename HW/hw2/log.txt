@@ -83,3 +83,31 @@ INFO: Sorted element 10
 INFO: Sorted element 12
 фев 16, 2023 4:34:01 PM HW.hw2.Task1 showSortArray
 INFO: Sorted element 15
+фев 17, 2023 5:34:54 AM HW.hw2.Task1 bubbleSort
+INFO: Iteration element 6 in [6, 12, 4, 1, 15, 10]
+фев 17, 2023 5:34:54 AM HW.hw2.Task1 bubbleSort
+INFO: Iteration element 4 in [6, 4, 12, 1, 15, 10]
+фев 17, 2023 5:34:54 AM HW.hw2.Task1 bubbleSort
+INFO: Iteration element 1 in [6, 4, 1, 12, 15, 10]
+фев 17, 2023 5:34:54 AM HW.hw2.Task1 bubbleSort
+INFO: Iteration element 10 in [6, 4, 1, 12, 10, 15]
+фев 17, 2023 5:34:54 AM HW.hw2.Task1 bubbleSort
+INFO: Iteration element 4 in [4, 6, 1, 12, 10, 15]
+фев 17, 2023 5:34:54 AM HW.hw2.Task1 bubbleSort
+INFO: Iteration element 1 in [4, 1, 6, 12, 10, 15]
+фев 17, 2023 5:34:54 AM HW.hw2.Task1 bubbleSort
+INFO: Iteration element 10 in [4, 1, 6, 10, 12, 15]
+фев 17, 2023 5:34:54 AM HW.hw2.Task1 bubbleSort
+INFO: Iteration element 1 in [1, 4, 6, 10, 12, 15]
+фев 17, 2023 5:34:54 AM HW.hw2.Task1 showSortArray
+INFO: Sorted element 1
+фев 17, 2023 5:34:54 AM HW.hw2.Task1 showSortArray
+INFO: Sorted element 4
+фев 17, 2023 5:34:54 AM HW.hw2.Task1 showSortArray
+INFO: Sorted element 6
+фев 17, 2023 5:34:54 AM HW.hw2.Task1 showSortArray
+INFO: Sorted element 10
+фев 17, 2023 5:34:54 AM HW.hw2.Task1 showSortArray
+INFO: Sorted element 12
+фев 17, 2023 5:34:54 AM HW.hw2.Task1 showSortArray
+INFO: Sorted element 15
