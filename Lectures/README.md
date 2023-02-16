@@ -126,6 +126,8 @@ Logger logger = Logger.getLogger()
 
 List – пронумерованный набор элементов.
 
+[List doc](https://docs.oracle.com/javase/8/docs/api/java/util/List.html list в документации)
+
 ArrayList - простейшая коллекция
 
 Если тип коллекции явно не указан будет использован Object 
