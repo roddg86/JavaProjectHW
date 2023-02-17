@@ -21,7 +21,7 @@ public class Task2 {
         // Студент Петрова получил 4 по предмету Информатика.
         // Студент Краснов получил 5 по предмету Физика.
 
-        File file = new File("HW/hw2/readme.json");
+        File file = new File("HW/hw2/readme1.json");
         System.out.println(parseStr(file));
     }
 
