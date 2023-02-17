@@ -1,0 +1,20 @@
+февр. 17, 2023 10:37:39 AM HW.hw2.Task4 number
+INFO: Entered number 8
+февр. 17, 2023 10:37:42 AM HW.hw2.Task4 operation
+INFO: Entered operation *
+февр. 17, 2023 10:37:45 AM HW.hw2.Task4 number
+INFO: Entered number 5
+февр. 17, 2023 10:37:45 AM HW.hw2.Task4 calculated
+INFO: Launched calculated: Result 40
+февр. 17, 2023 10:54:57 AM HW.hw2.Task4 number
+INFO: Entered number 5
+февр. 17, 2023 10:55:01 AM HW.hw2.Task4 operation
+INFO: Entered operation =
+февр. 17, 2023 10:55:05 AM HW.hw2.Task4 number
+INFO: Entered number 5
+февр. 17, 2023 10:55:11 AM HW.hw2.Task4 operation
+INFO: Entered operation +
+февр. 17, 2023 10:55:11 AM HW.hw2.Task4 calculated
+INFO: Launched calculated: Result 10
+февр. 17, 2023 10:55:11 AM HW.hw2.Task4 calculated
+INFO: Launched calculated: Result 10
