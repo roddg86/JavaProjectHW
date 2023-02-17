@@ -11,6 +11,9 @@ public class Task3 {
     }
 
     public static boolean isPalindrome(String text) {
+        // метод проверяет строку на палиндром
+        // Слово или фраза, которые одинаково читаются слева направо и справа налево
+        
         text = text.replaceAll("\\W", "");// удаляем все ненужное
         StringBuilder sb = new StringBuilder(text);
         sb.reverse(); // переворачиваем строку

@@ -26,6 +26,7 @@ public class Task2 {
     }
 
     public static String parseStr(File file) {
+        // парсим строку из файла
         StringBuilder sb = new StringBuilder();
         try (BufferedReader br = new BufferedReader(new FileReader(file))) {
             String[] arrStr = br.readLine().split("[{(\\[\\]}\\n)]");
