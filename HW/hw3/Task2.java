@@ -24,13 +24,13 @@ public class Task2 {
         System.out.printf("Среднее арифметическое " + listAverege + "\n");
     }
 
-    private static Integer maxList(ArrayList<Integer> list) {
+    public static Integer maxList(ArrayList<Integer> list) {
         // найти максимальное число в списке
         int max = Collections.max(list);
         return max;
     }
 
-    private static Integer minList(ArrayList<Integer> list) {
+    public static Integer minList(ArrayList<Integer> list) {
         // найти минимальное число в списке
         int min = Collections.min(list);
         return min;
