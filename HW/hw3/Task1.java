@@ -6,6 +6,7 @@ import java.util.Random;
 public class Task1 {
     // Пусть дан произвольный список целых чисел,
     // удалить из него четные числа
+
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<>();
         genRandomArray(10, 10, list);
@@ -31,8 +32,8 @@ public class Task1 {
         return number % 2 == 0;
     }
 
-    private static void showList(ArrayList<Integer> list) {
-        // вывод листа в консоль
+    public static void showList(ArrayList<Integer> list) {
+        // вывод списка в консоль
         for (int i = 0; i < list.size(); i++) {
             System.out.print(list.get(i) + " ");
         }
