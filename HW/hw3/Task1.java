@@ -15,7 +15,7 @@ public class Task1 {
         showList(list);
     }
 
-    public static void removeEvenNumbers(ArrayList<Integer> list) {
+    public static ArrayList<Integer> removeEvenNumbers(ArrayList<Integer> list) {
         // удалить четные числа из списка
         for (int i = 0; i < list.size(); i++) {
             if (isEven(list.get(i))) {
@@ -23,6 +23,7 @@ public class Task1 {
                 i--; // возвращаемся на одну позицию назад
             }
         }
+        return list;
     }
 
     public static boolean isEven(int number) {
