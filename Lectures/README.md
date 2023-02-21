@@ -152,11 +152,11 @@ ArrayList<Integer> list4 = new ArrayList<>(list3);
 
 LinkedList - двусвязный список
 
-Queue
+Queue - очередь
 
-PriorityQueue
+PriorityQueue - приоритетные очереди
 
-Deque
+Deque - двусторонние очереди
 
 Stack
 
