@@ -10,7 +10,7 @@ public class Task4 {
     // и из очереди достать эти элементы
     public static void main(String[] args) {
         String[] arr = new String[] { "hi", "welcome", "java", "task", "new" };
-        Queue<String> q = new LinkedList<>();
+        // Queue<String> q = new LinkedList<>();
         Queue<String> q1 = new LinkedList<>(Arrays.asList(arr));
         for (int i = 0; i < arr.length; i++) {
             q.add(arr[i]);
