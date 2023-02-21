@@ -1,9 +1,10 @@
 package HW.hw2;
 
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.BufferedReader;
-import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 
 public class Task2 {
     public static void main(String[] args) {
@@ -28,7 +29,7 @@ public class Task2 {
     public static String parseStr(File file) {
         // парсим строку из файла
         StringBuilder sb = new StringBuilder();
-        try (BufferedReader br = new BufferedReader(new FileReader(file))) {
+        try (BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(file), "UTF-8"))) {
             String[] arrStr = br.readLine().split("[{(\\[\\]}\\n)]");
             for (String el : arrStr) {
                 if (el.length() > 1) {
