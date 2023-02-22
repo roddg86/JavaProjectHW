@@ -1,0 +1,240 @@
+февр. 22, 2023 9:37:36 PM HW.hw4.Task3 number
+INFO: Entered number 2
+февр. 22, 2023 9:37:41 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 9:37:43 PM HW.hw4.Task3 number
+INFO: Entered number 2
+февр. 22, 2023 9:37:43 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 4
+февр. 22, 2023 9:55:48 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 9:55:50 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 9:55:51 PM HW.hw4.Task3 number
+INFO: Entered number 2
+февр. 22, 2023 9:55:51 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 3
+февр. 22, 2023 10:16:51 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 10:16:53 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 10:16:54 PM HW.hw4.Task3 number
+INFO: Entered number 2
+февр. 22, 2023 10:16:54 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 3
+февр. 22, 2023 10:18:42 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 10:18:44 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 10:18:45 PM HW.hw4.Task3 number
+INFO: Entered number 2
+февр. 22, 2023 10:18:45 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 3
+февр. 22, 2023 10:18:50 PM HW.hw4.Task3 number
+INFO: Entered number 2
+февр. 22, 2023 10:18:52 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 10:18:55 PM HW.hw4.Task3 number
+INFO: Entered number 4
+февр. 22, 2023 10:18:55 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 6
+февр. 22, 2023 10:31:50 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 10:31:52 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 10:31:53 PM HW.hw4.Task3 number
+INFO: Entered number 2
+февр. 22, 2023 10:31:53 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 3
+февр. 22, 2023 10:32:02 PM HW.hw4.Task3 number
+INFO: Entered number 3
+февр. 22, 2023 10:32:05 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 10:32:15 PM HW.hw4.Task3 number
+INFO: Entered number 3
+февр. 22, 2023 10:32:17 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 10:32:20 PM HW.hw4.Task3 number
+INFO: Entered number 4
+февр. 22, 2023 10:32:20 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 7
+февр. 22, 2023 10:36:46 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 10:36:48 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 10:36:49 PM HW.hw4.Task3 number
+INFO: Entered number 2
+февр. 22, 2023 10:36:49 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 3
+февр. 22, 2023 10:36:54 PM HW.hw4.Task3 number
+INFO: Entered number 2
+февр. 22, 2023 10:36:56 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 10:37:00 PM HW.hw4.Task3 number
+INFO: Entered number 4
+февр. 22, 2023 10:37:00 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 6
+февр. 22, 2023 10:40:18 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 10:40:20 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 10:40:25 PM HW.hw4.Task3 number
+INFO: Entered number 3
+февр. 22, 2023 10:40:25 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 4
+февр. 22, 2023 10:40:39 PM HW.hw4.Task3 number
+INFO: Entered number 3
+февр. 22, 2023 10:40:40 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 10:40:42 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 10:40:42 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 4
+февр. 22, 2023 10:40:46 PM HW.hw4.Task3 number
+INFO: Entered number 4
+февр. 22, 2023 10:40:47 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 10:40:50 PM HW.hw4.Task3 number
+INFO: Entered number 5
+февр. 22, 2023 10:40:50 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 9
+февр. 22, 2023 10:54:36 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 10:54:40 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 10:54:41 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 10:54:41 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 2
+февр. 22, 2023 10:54:43 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 10:54:45 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 10:54:45 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 3
+февр. 22, 2023 10:54:47 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 10:54:47 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 10:54:47 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 4
+февр. 22, 2023 11:14:18 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:14:30 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:14:33 PM HW.hw4.Task3 number
+INFO: Entered number 2
+февр. 22, 2023 11:14:35 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:14:54 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:15:08 PM HW.hw4.Task3 number
+INFO: Entered number 2
+февр. 22, 2023 11:18:03 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:18:07 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:18:13 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:18:16 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:18:18 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:18:19 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:18:26 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:18:44 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:18:46 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:18:49 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:18:51 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:18:53 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:19:02 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:21:36 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:48:22 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:48:23 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 11:48:25 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:48:25 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 2
+февр. 22, 2023 11:50:58 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:51:00 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 11:51:01 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:51:01 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 2
+февр. 22, 2023 11:51:03 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 11:51:04 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:51:04 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 3
+февр. 22, 2023 11:51:05 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 11:51:06 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:51:06 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 3
+февр. 22, 2023 11:51:15 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 11:51:17 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:51:17 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 3
+февр. 22, 2023 11:51:19 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 11:51:20 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:51:20 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 3
+февр. 22, 2023 11:51:21 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 11:51:22 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:51:22 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 3
+февр. 22, 2023 11:51:24 PM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 22, 2023 11:51:25 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 22, 2023 11:51:25 PM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 3
+февр. 22, 2023 11:55:25 PM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 23, 2023 12:06:48 AM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 23, 2023 12:06:52 AM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 23, 2023 12:06:53 AM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 23, 2023 12:06:53 AM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 2
+февр. 23, 2023 12:06:58 AM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 23, 2023 12:06:58 AM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 23, 2023 12:06:58 AM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 3
+февр. 23, 2023 12:06:59 AM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 23, 2023 12:07:00 AM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 23, 2023 12:07:00 AM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 4
+февр. 23, 2023 12:07:01 AM HW.hw4.Task3 operation
+INFO: Entered operation +
+февр. 23, 2023 12:07:01 AM HW.hw4.Task3 number
+INFO: Entered number 1
+февр. 23, 2023 12:07:01 AM HW.hw4.Task3 calculated
+INFO: Launched calculated: Result 5
