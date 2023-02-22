@@ -1,5 +1,6 @@
 package HW.hw4;
 
+import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.LinkedList;
 import java.util.Scanner;
@@ -42,7 +43,7 @@ public class Task3 {
         // 9
         // Дополнительно каскадная отмена - отмена нескольких операций
 
-        Deque<Integer> dq = new LinkedList<>();
+        Deque<Integer> dq = new ArrayDeque<>();
         int num1 = number();
         while (true) {
             char op = operation();
