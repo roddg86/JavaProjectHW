@@ -16,7 +16,6 @@ public class Task1 {
         // 2) Вывод всего
 
         HashMap<String, ArrayList<String>> phoneBook = new HashMap<>();
-        Scanner sc = new Scanner(System.in, "cp866");
 
         while (true) {
             System.out.println("Добавить запись: y - да, выход q");
