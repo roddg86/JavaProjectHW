@@ -19,3 +19,5 @@
 [LinkedList Разворот односвязного списка, сложность O(n)](https://www.youtube.com/watch?v=Nzz4i1QWmJw "LinkedList")
 
 [HashMap что за карта такая](https://javarush.com/groups/posts/1940-klass-hashmap- "HashMap")
+
+shift+alt+UP - дублировать строку
