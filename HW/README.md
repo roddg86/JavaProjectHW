@@ -17,3 +17,5 @@
 [Нахождение максимального и минимального значения](https://www.techiedelight.com/ru/find-min-max-value-unsorted-list-integers-java/ "Найти минимальное и максимальное значения в несортированном целочисленном списке в Java")
 
 [LinkedList Разворот односвязного списка, сложность O(n)](https://www.youtube.com/watch?v=Nzz4i1QWmJw "LinkedList")
+
+[HashMap что за карта такая](https://javarush.com/groups/posts/1940-klass-hashmap- "HashMap")
