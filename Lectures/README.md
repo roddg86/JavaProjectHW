@@ -195,3 +195,5 @@ HashMap может хранить null элементы, если нужно и�
 [Кофе-брейк #168. Зачем переопределять методы equals и hashcode в Java?](https://javarush.com/groups/posts/3957-kofe-breyk-168-zachem-pereopredeljatjh-metodih-equals-i-hashcode-v-java "JavaRash")
 
 [Переопределение методов equals() и hashCode() в Java](https://javarush.com/groups/posts/1340-peregruzka-metodov-equals-i-hashcode-v-java "JavaRash")
+
+[equals() и .hashcode() наследуется от класса Object](https://habr.com/ru/post/585898/ "Методы .equals и .hashcode в Java. Отличия реализации по умолчанию от реализации на практике")
