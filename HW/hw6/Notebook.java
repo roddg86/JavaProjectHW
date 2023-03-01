@@ -41,6 +41,7 @@ public class Notebook {
     }
 
     /**
+     * 3.
      * Процедура определения номера по порядку {@link Notebook#id}
      * 
      * @param id - номер по порядку
@@ -104,6 +105,7 @@ public class Notebook {
     }
 
     /**
+     * 4.
      * Метод устанавливает антивирус {@link Notebook#makeAvInstalled}
      * 
      * @param avInstalled - установить антивирус
@@ -113,6 +115,7 @@ public class Notebook {
     }
 
     /**
+     * 5.
      * Метод отображает содержимое сущности {@link Notebook#toString}
      * 
      * @return возвращает символьную строку описывающую объект
@@ -128,6 +131,7 @@ public class Notebook {
     }
 
     /**
+     * 6.
      * Метод производит сравнение объектов {@link Notebook#equals}
      * 
      * @return true - если содержимое эквивалентно
@@ -139,6 +143,7 @@ public class Notebook {
     }
 
     /**
+     * 7.
      * Метод для получения уникального целочисленного номера объекта
      * {@link Notebook#hashCode}
      * 
