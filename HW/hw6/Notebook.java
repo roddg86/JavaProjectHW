@@ -106,6 +106,61 @@ public class Notebook {
 
     /**
      * 4.
+     * Функция получения значения поля {@link Notebook#id}
+     * 
+     * @return возвращает номер по порядку
+     */
+    public int getId() {
+        return id;
+    }
+
+    /**
+     * Функция получения значения поля {@link Notebook#model}
+     * 
+     * @return возвращает модель
+     */
+    public String getModel() {
+        return model;
+    }
+
+    /**
+     * Функция получения значения поля {@link Notebook#ramType}
+     * 
+     * @return возвращает ОЗУ
+     */
+    public int getRamType() {
+        return ramType;
+    }
+
+    /**
+     * Функция получения значения поля {@link Notebook#osType}
+     * 
+     * @return возвращает операционную систему
+     */
+    public String getOsType() {
+        return osType;
+    }
+
+    /**
+     * Функция получения значения поля {@link Notebook#ssdType}
+     * 
+     * @return возвращает объем ЖД
+     */
+    public int getSsdType() {
+        return ssdType;
+    }
+
+    /**
+     * Функция получения значения поля {@link Notebook#color}
+     * 
+     * @return возвращает цвет
+     */
+    public String getColor() {
+        return color;
+    }
+
+    /**
+     * 5.
      * Метод устанавливает антивирус {@link Notebook#makeAvInstalled}
      * 
      * @param avInstalled - установить антивирус
@@ -115,7 +170,7 @@ public class Notebook {
     }
 
     /**
-     * 5.
+     * 6.
      * Метод отображает содержимое сущности {@link Notebook#toString}
      * 
      * @return возвращает символьную строку описывающую объект
@@ -131,7 +186,7 @@ public class Notebook {
     }
 
     /**
-     * 6.
+     * 7.
      * Метод производит сравнение объектов {@link Notebook#equals}
      * 
      * @return true - если содержимое эквивалентно
@@ -143,7 +198,7 @@ public class Notebook {
     }
 
     /**
-     * 7.
+     * 8.
      * Метод для получения уникального целочисленного номера объекта
      * {@link Notebook#hashCode}
      * 
