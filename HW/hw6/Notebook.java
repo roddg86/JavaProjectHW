@@ -177,7 +177,7 @@ public class Notebook {
      */
     @Override
     public String toString() {
-        return "" + id + "Ноутбук: (" + model + "): " +
+        return " " + id + " Ноутбук: (" + model + "): " +
                 ", ОЗУ " + ramType +
                 ", Объем ЖД " + ssdType +
                 ", Операционная система: " + osType + '\'' +
