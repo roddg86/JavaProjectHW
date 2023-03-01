@@ -15,7 +15,7 @@ public class Ex001_Program {
 
         // еще один экземпляр класса, конструктор
         Worker w4 = new Worker();
-        w4.firstName = "Имя_1";
+        w4.firstName = "Имя_4";
         w4.lastName = "Фамилия_4";
         w4.salary = 100;
         w4.id = 1000;
