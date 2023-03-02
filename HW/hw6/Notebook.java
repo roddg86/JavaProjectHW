@@ -6,7 +6,7 @@ public class Notebook {
     /** поле номер по порядку */
     private int id;
     /** поле модель производителя */
-    private String model;
+    private String modelType;
     /** поле ОЗУ */
     private int ramType;
     /** поле Объем ЖД */
@@ -14,30 +14,31 @@ public class Notebook {
     /** поле Операционная система */
     private String osType;
     /** поле цвет */
-    private String color;
-    /** поле установить антивирус */
-    private boolean avInstalled;
+    private String colorType;
+    /** поле установить вирус */
+    private boolean virusInstalled;
 
     /**
      * 2. Конструктор - создание нового объекта с определенными значениями
      * 
-     * @param id          - номер по порядку
-     * @param model       - модель производителя
-     * @param ramType     - ОЗУ
-     * @param ssdType     - Объем ЖД
-     * @param osType      - Операционная система
-     * @param color       - цвет
-     * @param avInstalled - установить антивирус
+     * @param id             - номер по порядку
+     * @param modelType      - модель производителя
+     * @param ramType        - ОЗУ
+     * @param ssdType        - Объем ЖД
+     * @param osType         - Операционная система
+     * @param colorType      - цвет
+     * @param virusInstalled - установить вирус
      * @see Notebook#Notebook()
      */
-    public Notebook(int id, String model, int ramType, int ssdType, String osType, String color, boolean avInstalled) {
+    public Notebook(int id, String modelType, int ramType, int ssdType, String osType, String colorType,
+            boolean virusInstalled) {
         this.id = id;
-        this.model = model;
+        this.modelType = modelType;
         this.ramType = ramType;
         this.ssdType = ssdType;
         this.osType = osType;
-        this.color = color;
-        this.avInstalled = avInstalled;
+        this.colorType = colorType;
+        this.virusInstalled = virusInstalled;
     }
 
     /**
@@ -51,12 +52,12 @@ public class Notebook {
     }
 
     /**
-     * Процедура определения производителя {@link Notebook#model}
+     * Процедура определения производителя {@link Notebook#modelType}
      * 
-     * @param model - производитель
+     * @param modelType - производитель
      */
-    public void setModel(String model) {
-        this.model = model;
+    public void setModelType(String modelType) {
+        this.modelType = modelType;
     }
 
     /**
@@ -87,21 +88,21 @@ public class Notebook {
     }
 
     /**
-     * Процедура определения производителя {@link Notebook#color}
+     * Процедура определения производителя {@link Notebook#colorType}
      * 
-     * @param color - цвет
+     * @param colorType - цвет
      */
-    public void setColor(String color) {
-        this.color = color;
+    public void setColorType(String colorType) {
+        this.colorType = colorType;
     }
 
     /**
-     * Процедура определения производителя {@link Notebook#avInstalled}
+     * Процедура определения производителя {@link Notebook#virusInstalled}
      * 
-     * @param avInstalled - установить антивирус
+     * @param virusInstalled - установить антивирус
      */
-    public void setAvInstalled(boolean installedAv) {
-        this.avInstalled = installedAv;
+    public void setVirusInstalled(boolean virusInstalled) {
+        this.virusInstalled = virusInstalled;
     }
 
     /**
@@ -115,12 +116,12 @@ public class Notebook {
     }
 
     /**
-     * Функция получения значения поля {@link Notebook#model}
+     * Функция получения значения поля {@link Notebook#modelType}
      * 
      * @return возвращает модель
      */
-    public String getModel() {
-        return model;
+    public String getModelType() {
+        return modelType;
     }
 
     /**
@@ -151,22 +152,22 @@ public class Notebook {
     }
 
     /**
-     * Функция получения значения поля {@link Notebook#color}
+     * Функция получения значения поля {@link Notebook#colorType}
      * 
      * @return возвращает цвет
      */
-    public String getColor() {
-        return color;
+    public String getColorType() {
+        return colorType;
     }
 
     /**
      * 5.
      * Метод устанавливает антивирус {@link Notebook#makeAvInstalled}
      * 
-     * @param avInstalled - установить антивирус
+     * @param virusInstalled - установить антивирус
      */
-    public void makeAvInstalled() {
-        this.avInstalled = true;
+    public void makeVirusInstalled() {
+        this.virusInstalled = true;
     }
 
     /**
@@ -177,12 +178,12 @@ public class Notebook {
      */
     @Override
     public String toString() {
-        return " " + id + " Ноутбук: (" + model + "): " +
+        return " " + id + " Ноутбук: " + modelType + ": " +
                 ", ОЗУ " + ramType +
                 ", Объем ЖД " + ssdType +
                 ", Операционная система: " + osType + '\'' +
-                ", Цвет: " + color +
-                ", Установить антивирус: " + avInstalled;
+                ", Цвет: " + colorType +
+                ", Вирусы: " + virusInstalled;
     }
 
     /**
@@ -194,7 +195,7 @@ public class Notebook {
     @Override
     public boolean equals(Object obj) {
         Notebook t = (Notebook) obj;
-        return id == t.id && model == t.model;
+        return id == t.id && modelType == t.modelType;
     }
 
     /**
