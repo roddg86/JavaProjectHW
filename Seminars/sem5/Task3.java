@@ -2,8 +2,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
 
-import org.xml.sax.HandlerBase;
-
 public class Task3 {
     public static void main(String[] args) {
         // Написать программу, определяющую правильность расстановки скобок в выражении.
