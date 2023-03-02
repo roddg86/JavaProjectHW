@@ -18,10 +18,6 @@ public class Main {
         HashSet<Notebook> notebookSet = new HashSet<>(Arrays.asList(notebook1, notebook2,
                 notebook3, notebook4, notebook5));
 
-        // shoWSet(selectModel(notebookSet));
-        // shoWSet(selectRamType(notebookSet));
-        // shoWSet(selectSsdType(notebookSet));
-
         System.out.println("Здравствуйте, это магазин ноутбуков!");
         System.out.println("Введите цифру, соответствующую необходимому критерию:");
         criteria();
@@ -59,7 +55,6 @@ public class Main {
         // Считать строку со ввода
         Scanner scanner = new Scanner(System.in);
         String scan = scanner.nextLine();
-        // scanner.close();
         return scan;
     }
 
@@ -80,7 +75,6 @@ public class Main {
         for (Notebook notebook : notebookSet) {
             switch (number) {
                 case "1":
-                    String str = notebook.toString();
                     System.out.println(notebook.getRamType());
 
                     break;
