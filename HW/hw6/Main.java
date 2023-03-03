@@ -67,7 +67,7 @@ public class Main {
     }
 
     public static HashSet<Notebook> selectType(HashSet<Notebook> notebookSet, String number) {
-        // Выбрать по модели
+        // Выбрать по параметрам
         HashSet<Notebook> newResultSet = new HashSet<>();
         System.out.println(String.format("%5s", "").replace(" ", "-"));
         System.out.println("Конкретнее: ");
